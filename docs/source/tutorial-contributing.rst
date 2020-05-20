@@ -106,6 +106,7 @@ List of tutorial participants
 - Lisa Oakes (UC Davis)
 - Gerwin Legaspi (University of British Columbia)
 - Amanda Cramer (University of Texas at Austin)
+- Nicole Cuneo (Yale University/ Haskins Laboratories)
 
 .. _Github issues overview:
 
